@@ -1,0 +1,17 @@
+name: "my-website"
+navbar:
+  title: "Angli Xue"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-info
+      href: Personal_webpage.html
+    - text: "More"
+      icon: icon::fa("microscope")
+      menu:
+        - text: "Page A"
+          href: Research.html
+        - text: "Page B"
+          href: Research.html

@@ -1,0 +1,21 @@
+---
+title: "Welcome to Angli Xue's website"
+author: "[Angli Xue](https://github.com/alexxue81)"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+mail: "alexxuexue@gmail.com"
+linkedin: "angli-xue-1697aa9a"
+twitter: "alexxue81"
+github: "alexxue81"
+#home: "https://sites.google.com/view/angli-xue/home/"
+output:
+  epuRate::UQ:
+    toc: TRUE
+    number_sections: FALSE
+    code_folding: "hide"
+---
+
+<br><br><br><br>
+
+> Hi! I am Angli Xue, a PhD candidate at [Program in Complex Trait Genomics (PCTG) group](https://cnsgenomics.com/) at University of Queensland, Australia. I am interested in dissecting the genetic architecture of human complex diseases, performing meta-analysis and integrating multi-omics data to identify associated gene loci and gene regulating mechanisms. 
+
+> I'm currently working at [Prof. Jian Yang](https://scholar.google.com.au/citations?user=aLuqQs8AAAAJ&hl=en)'s laboratory, and my PhD thesis topic is "identification of genetic and modifiable risk factors for complex traits and diseases".
