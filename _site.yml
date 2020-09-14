@@ -1,4 +1,5 @@
 name: "my-website"
+output_dir: "."
 navbar:
   title: "Angli Xue"
   left:
@@ -8,10 +9,17 @@ navbar:
     - text: "About"
       icon: fa-info
       href: Personal_webpage.html
-    - text: "More"
-      icon: icon::fa("microscope")
-      menu:
-        - text: "Page A"
-          href: Research.html
-        - text: "Page B"
-          href: Research.html
+    - text: "Research"
+      icon: fa-info
+      href: Research.html
+
+#output:
+#  html_document:
+#    theme: lumen
+#    toc: yes
+#    toc_float: yes
+#    toc_depth: 2
+#    number_sections: no
+#    code_folding: hide
+    
+
