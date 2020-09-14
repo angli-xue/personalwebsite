@@ -1,5 +1,5 @@
 ---
-title: "Angli Xue's personal website"
+title: "About me"
 author: "[Angli Xue](https://github.com/alexxue81)"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 mail: "alexxuexue@gmail.com"
@@ -26,11 +26,13 @@ library(epuRate)      # devtools::install_github("holtzy/epuRate", force=TRUE)
 
 > I'm currently working at [Prof. Jian Yang](https://scholar.google.com.au/citations?user=aLuqQs8AAAAJ&hl=en)'s laboratory, and my PhD thesis topic is "identification of genetic and modifiable risk factors for complex traits and diseases".
 
+<br>
 
 # Overview
 ***
 Angli Xue is a PhD student at [Institute for Molecular Bioscience](https://imb.uq.edu.au/) (IMB), The [University of Queensland](https://www.uq.edu.au/) (UQ). He received his bachelor in 2015 from [Zhejiang University](http://www.zju.edu.cn/english/) (ZJU), China, which was followed by a one-year research assistant at the [Institute of Bioinformatics](http://ibi.zju.edu.cn/), ZJU. He joined [Program in Complex Trait Genomics](https://cnsgenomics.com/) (PCTG) group at UQ in 2016. His research interests are in dissecting the genetic architecture of human complex diseases, performing meta-analysis and integrating multi-omics data to identify associated gene loci and gene regulating mechanisms.
 
+<br>
 
 # Research focuses
 ***
@@ -44,6 +46,7 @@ Angli Xue is a PhD student at [Institute for Molecular Bioscience](https://imb.u
 
 - X chromosome inactivation (e.g. dosage compensation model)
 
+<br>
 
 # Qualifications
 ***
@@ -51,8 +54,11 @@ Angli Xue is a PhD student at [Institute for Molecular Bioscience](https://imb.u
 
 - Bachelor in Agronomy, Zhejiang University, 2011 - 2015
 
+<br>
+
 # Selected Publications
 ***
+## Published
 [Genome-wide association analyses identify 143 risk variants and putative regulatory mechanisms for type 2 diabetes](https://www.nature.com/articles/s41467-018-04951-w)
 
 Angli Xue, Yang Wu, Zhihong Zhu, Futao Zhang, Kathryn E Kemper, Zhili Zheng, Loic Yengo, Luke R. Lloyd-Jones, Julia Sidorenko, Yeda Wu, eQTLGen Consortium, Allan F McRae, Peter M Visscher, Jian Zeng, Jian Yang. Genome-wide association analyses identify 143 risk variants and putative regulatory mechanisms for type 2 diabetes. Nature Communications. 2018. 9 (1), 1-14.
@@ -70,10 +76,12 @@ Angli Xue, Longda Jiang, Zhihong Zhu, Naomi R. Wray, Peter M. Visscher, Jian Zen
 
 Jian Zeng, Angli Xue, Longda Jiang, Luke R Lloyd-Jones, Yang Wu, Huanwei Wang, Zhili Zheng, Loic Yengo, Kathryn E Kemper, Naomi R Wray, Peter M Visscher, Jian Yang. Bayesian analysis of summary data reveals differential signatures of natural selection across human complex traits and functional genomic regions. Under review. 2020.
 
-
+<br>
 
 # More
 ***
-Read more about my publications [Google scholar](https://scholar.google.com.au/citations?user=pKYOAm0AAAAJ&hl=en).
+Read more about my latest publications in [Google scholar](https://scholar.google.com.au/citations?user=pKYOAm0AAAAJ&hl=en).
 
-Learn about my peer review activity [Publons](https://publons.com/researcher/1390585/angli-xue/).
+Learn about my peer review activity in [Publons](https://publons.com/researcher/1390585/angli-xue/).
+
+<br>

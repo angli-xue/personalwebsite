@@ -10,8 +10,10 @@ navbar:
       icon: fa-info
       href: Personal_webpage.html
     - text: "Research"
-      icon: fa-info
+      icon: fa-flask
       href: Research.html
+
+
 
 #output:
 #  html_document:

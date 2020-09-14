@@ -1,5 +1,5 @@
 ---
-title: "Angli Xue's personal website"
+title: "Research"
 author: "[Angli Xue](https://github.com/alexxue81)"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 mail: "alexxuexue@gmail.com"
@@ -20,13 +20,147 @@ library(rmarkdown)    # install.packages("rmarkdown")
 library(epuRate)      # devtools::install_github("holtzy/epuRate", force=TRUE)
 ```
 
+<br><br><br><br>
 
 # Research experience
 ***
+<br>
+2016.10 - present
 
+**Identification of genetic and modifiable risk factor for human complex traits and diseases**                                   
+PhD student (Supervisor: Prof. Jian Yang, Institute for Molecular Bioscience & Queensland Brain Institute)
+
+* Genome-wide association studies on the genetic architecture of type 2 diabetes [[Publication](https://www.nature.com/articles/s41467-018-04951-w)]
+
+* Investigate the influence of misreporting and longitudinal changes in the genetic analysis for self-reported behavioural traits [[Preprint](https://www.medrxiv.org/content/10.1101/2020.06.15.20131284v1)]
+
+* Analysing different substance use behaviours like drinking, smoking, and investigating their causal effects for human complex diseases
+
+* Improved the algorithm and R package for a software tool of Mendelian Randomization [[Software link](https://cnsgenomics.com/software/gsmr/)]
+
+* Revealing the regulatory pathway and biological network of basal cell carcinoma
+
+
+<br>
+2015.8 - 2016.9 
+
+**Dissecting genetic architecture using multi-omics information: A case of GWAS for startle behaviour in Drosophila melanogaster**  
+
+Research assistant (Mentor: Prof. Jun Zhu, Institute of Bioinformatics)
+
+* Analyzed the multi-omics data to detect SNPs and eQTLs associated with startle behaviour in Drosophila (fruit fly) [[Publication](https://www.nature.com/articles/s41598-017-11676-1)]
+
+* Investigated the evolutionary conservation of key genes and pathways between Drosophila and human
+
+
+<br>
+2014.8 - 2015.6 
+
+**Association mapping of genetic network for plant morphology traits in Upland cotton**  
+
+Undergraduate dissertation (Mentor: Prof. Jun Zhu, Institute of Bioinformatics)            
+
+* Dissected genetic basis of plant morphology traits and branch architecture traits in upland cotton [[Publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162815)]
+
+* Provided new cotton breeding strategies using associated SSR markers [[Publication](http://html.rhhz.net/ZJDXXBNYYSMKXB/html/10359.htm)]
+
+
+<br>
+2014.7.7 - 8.17 
+
+**DMT Resistance Measurement and Mutant Screening of __Phytophthora capsici__**         
+
+Summer Research Apprenticeship in University of Illinois at Urbana-Champaign 
+
+(Mentor: Prof. Mohammad Babadoost, Department of Crop Sciences)
+
+·       Measured the sensitivities of a list of Phytophthora capsici isolates from pumpkins in Illinois to a fungicide dimethomorph by determining EC50 of colony diameter growth
+
+
+<br>
+2013.3 - 2014.3
+
+**The Ghost Kit——Detect, Purify, and Store Protein**                            
+
+Team Leader of International Genetically Engineered Machine (iGEM) competition team 
+
+(Instructor: Prof. Ming Chen, Department of Bioinformatics)
+
+Website: http://2013.igem.org/Team:ZJU-China
+
+* In charge of all teamwork and co-supervised the project
+
+* Designed four new parameters used to describe RNA aptamer-based riboswitch, and made quantitative and qualitative descriptions of them in the form of standardized datasheet and graph
+
+
+<br>
+2012.3 - 2013.3 
+
+V2 of tomato yellow leaf curl virus can suppress methylation-mediated transcriptional gene silencing in plant                                                          
+
+Research assistant (Mentor: Prof. Xueping Zhou, State Key Laboratory of Rice Biology)
+
+* Learned some basic skills of molecular experiment, such as plasmid DNA extraction and PCR
+
+* Demonstrated that the tomato yellow leaf curl virus (TYLCV) [V2 protein](https://pubmed.ncbi.nlm.nih.gov/24187017/) can reverse TGS by reducing the methylation levels in the 35S promoter sequence
+
+<br><br>
 
 # Conference presentation
 ***
+**International Conference of Quantitative Genetics 6^th^**. 2020, 2-13 November (upcoming), Brisbane, Australia.
+
+Poster presentation: Genome-wide analyses of behavioral traits biased by misreports and longitudinal changes
+
+<br>
+
+**The International Young Scholars Forum of Sun Yat-sen University**. 2019, 26-28 December, Guangzhou, China.
+
+Invited talk: Genome-wide association studies on human complex traits based on multi-omics data
+
+<br>
+
+**The Symposium of Quantitative Genetics**. 2019, 24-26 May. Hangzhou, China.
+
+Invited talk: Genetic risk variants and putative regulatory mechanisms for type 2 diabetes
+
+<br>
+
+**Quantitative Genetics and Genomics, Gordon Research Conference & Seminar**. 2019, 08-15 February, Lucca, Italy
+
+Poster presentation: The health consequences of tobacco smoking, alcohol, coffee and tea drinking behaviors
+
+<br>
+
+**GeneMappers**, 2018. 29-31, August, Noosa Heads, Queensland, Australia
+
+Poster presentation: Genome-wide association analyses identify 143 risk variants and putative regulatory mechanisms for type 2 diabetes
+ 
+<br>
+
+**FHS-OMICS Conference Series** (video-conferencing), 2018, 10 February, Boston, USA. 
+
+Organized by Framingham Heart Study (FHS) Conference Committee.
+
+Invited talk: Genetic risk variants and putative regulatory mechanisms for type 2 diabetes.
+
+<br><br>
 
 # Peer review activity
 ***
+- Early Career Reviewer in Statistical Genetics & Genomics section, [GENETICS](https://www.genetics.org/content/early-career-reviewers#StatisticalGeneticsGenomics)
+
+- The GENETICS Peer Review Training Program (2019.6 - 2019.7)
+
+- Clinical Obesity (2020)
+
+- Genetics (2019, 2020 x 2)
+
+- Journal of Human Genetics (2019)
+
+- EBioMedicine (2018, Outstanding Contribution in Reviewing Award)
+
+- Nucleic Acids Research (2018, 2019)
+
+- Publons ID: [1390585](https://publons.com/researcher/1390585/angli-xue/)
+

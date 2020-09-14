@@ -13,6 +13,12 @@ output:
     number_sections: FALSE
     code_folding: "hide"
 ---
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+# You need these libraries to run this template:
+library(rmarkdown)    # install.packages("rmarkdown")
+library(epuRate)      # devtools::install_github("holtzy/epuRate", force=TRUE)
+library(icon)
+```
 
 <br><br><br><br>
 
