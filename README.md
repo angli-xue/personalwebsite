@@ -1,3 +1,3 @@
 # personalwebsite
 
-URL: https://anglixue.github.io/personalwebsite/
+URL: https://angli-xue.github.io/personalwebsite/
